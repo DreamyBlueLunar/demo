@@ -10,6 +10,8 @@ int main() {
     // 检查栈是否为空
     std::cout << "Is the stack empty? " << intStack.isEmpty() << std::endl;
 
+    std::cout << "Lisi's output: Running main" << std::endl;
+
     // 向栈中添加元素
     intStack.push(1);
     intStack.push(2);
