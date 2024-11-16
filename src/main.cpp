@@ -2,6 +2,9 @@
 #include <iostream>
 
 int main() {
+
+    std::cout << "Zhangsan's output: Running main" << std::endl;
+
     Stack intStack;
 
     // 检查栈是否为空
